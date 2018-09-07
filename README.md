@@ -1,13 +1,13 @@
-#Illumion Coding Assignment
+# Illumion Coding Assignment
 
 A simplified firewall model.
 This model determines the fate of a packet by checking whether the input is supported.
 
-##Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-###Prerequisites
+### Prerequisites
 python version >= 3.5
 numpy and pandas
 ```
@@ -15,7 +15,7 @@ pip3 install pandas
 pip3 install numpy
 ```
 
-##Running the test
+## Running the test
 
 ```
 cd Illumio_Coding_Test/version1
